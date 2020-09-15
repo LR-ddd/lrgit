@@ -1,0 +1,10 @@
+./mycli/include/myopt.h
+./mycli/include/mynet.h
+./mycli/src/mynet.c
+./mycli/src/myopt.c
+./mycli/src/main.c
+./myser/include/myopt.h
+./myser/include/mynet.h
+./myser/src/mynet.c
+./myser/src/myopt.c
+./myser/src/main.c
